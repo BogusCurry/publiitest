@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publiitest - Github",
+    "description": "",
+    "home_page_url": "https://github.com/BogusCurry/publiitest",
+    "feed_url": "https://github.com/BogusCurry/publiitest/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gerriet"
+    },
+    "items": [
+        {
+            "id": "https://github.com/BogusCurry/publiitest/bilder-rockhouse-event-mit-wolem.html",
+            "url": "https://github.com/BogusCurry/publiitest/bilder-rockhouse-event-mit-wolem.html",
+            "title": "Bilder: Rockhouse Event mit Wolem",
+            "summary": " ",
+            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--center\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot01_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot01_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot02_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot02_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot03_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot03_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot04_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot04_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot05_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot05_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot06_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot06_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot07_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot07_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot08_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot08_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot09_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot09_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot10_001.png\" data-size=\"800x424\">\n        <img loading=\"lazy\" src=\"https://github.com/BogusCurry/publiitest/media/posts/1/gallery/Snapshot10_001-thumbnail.png\" height=\"382\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "author": {
+                "name": "Gerriet"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-24T23:39:11+02:00",
+            "date_modified": "2020-07-24T23:39:11+02:00"
+        }
+    ]
+}
